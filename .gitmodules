@@ -1,0 +1,6 @@
+[submodule "govbot-sdk"]
+	path = govbot-sdk
+	url = git@github.com:BastiTee/govbot-sdk.git
+[submodule "govbot-emulator"]
+	path = govbot-emulator
+	url = git@github.com:Microsoft/BotFramework-Emulator.git
